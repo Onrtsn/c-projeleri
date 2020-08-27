@@ -1,0 +1,10 @@
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\bin\Debug\metin_belge_kayit.exe.config
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\bin\Debug\metin_belge_kayit.exe
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\bin\Debug\metin_belge_kayit.pdb
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.Form1.resources
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.Properties.Resources.resources
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.csproj.GenerateResource.cache
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.csproj.CoreCompileInputs.cache
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.exe
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.pdb
+C:\Users\onrts\source\repos\metin_belge_kayit\metin_belge_kayit\obj\Debug\metin_belge_kayit.csprojAssemblyReference.cache

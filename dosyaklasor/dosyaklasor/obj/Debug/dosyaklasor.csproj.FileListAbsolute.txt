@@ -1,0 +1,10 @@
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\bin\Debug\dosyaklasor.exe.config
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\bin\Debug\dosyaklasor.exe
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\bin\Debug\dosyaklasor.pdb
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.csprojAssemblyReference.cache
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.Form1.resources
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.Properties.Resources.resources
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.csproj.GenerateResource.cache
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.csproj.CoreCompileInputs.cache
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.exe
+C:\Users\onrts\source\repos\dosyaklasor\dosyaklasor\obj\Debug\dosyaklasor.pdb

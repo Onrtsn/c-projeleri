@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metin belgesi reader", "metin belgesi reader\metin belgesi reader.csproj", "{A682065B-2BB6-49CE-B66F-2998B8B8ED41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A682065B-2BB6-49CE-B66F-2998B8B8ED41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A682065B-2BB6-49CE-B66F-2998B8B8ED41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A682065B-2BB6-49CE-B66F-2998B8B8ED41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A682065B-2BB6-49CE-B66F-2998B8B8ED41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BE0A73-AD4D-4700-B9C6-A773DC4C7474}
+	EndGlobalSection
+EndGlobal

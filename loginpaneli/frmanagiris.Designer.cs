@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmanagiris));
             this.Login = new System.Windows.Forms.GroupBox();
+            this.msktel = new System.Windows.Forms.MaskedTextBox();
             this.txtid = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.btnkydt = new System.Windows.Forms.Button();
@@ -47,7 +48,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.btnraporlama = new System.Windows.Forms.Button();
             this.btngrafik = new System.Windows.Forms.Button();
             this.btnisttsk = new System.Windows.Forms.Button();
             this.btnclear = new System.Windows.Forms.Button();
@@ -70,7 +70,6 @@
             this.veriTableAdapter = new loginpaneli.loginpanelDataSetTableAdapters.veriTableAdapter();
             this.label7 = new System.Windows.Forms.Label();
             this.veriTableAdapter1 = new loginpaneli.loginpanelDataSet1TableAdapters.veriTableAdapter();
-            this.msktel = new System.Windows.Forms.MaskedTextBox();
             this.Login.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -107,6 +106,14 @@
             this.Login.TabIndex = 0;
             this.Login.TabStop = false;
             this.Login.Text = "Login";
+            // 
+            // msktel
+            // 
+            this.msktel.Location = new System.Drawing.Point(93, 116);
+            this.msktel.Mask = "(999) 000-0000";
+            this.msktel.Name = "msktel";
+            this.msktel.Size = new System.Drawing.Size(117, 20);
+            this.msktel.TabIndex = 16;
             // 
             // txtid
             // 
@@ -297,7 +304,6 @@
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
             this.groupBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.groupBox2.Controls.Add(this.btnraporlama);
             this.groupBox2.Controls.Add(this.btngrafik);
             this.groupBox2.Controls.Add(this.btnisttsk);
             this.groupBox2.Controls.Add(this.btnclear);
@@ -305,20 +311,10 @@
             this.groupBox2.Controls.Add(this.btndlte);
             this.groupBox2.Location = new System.Drawing.Point(435, 12);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(322, 149);
+            this.groupBox2.Size = new System.Drawing.Size(322, 132);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Save";
-            // 
-            // btnraporlama
-            // 
-            this.btnraporlama.Location = new System.Drawing.Point(4, 116);
-            this.btnraporlama.Name = "btnraporlama";
-            this.btnraporlama.Size = new System.Drawing.Size(310, 27);
-            this.btnraporlama.TabIndex = 19;
-            this.btnraporlama.Text = "Raporlama";
-            this.btnraporlama.UseVisualStyleBackColor = true;
-            this.btnraporlama.Click += new System.EventHandler(this.btnraporlama_Click);
             // 
             // btngrafik
             // 
@@ -497,14 +493,6 @@
             // 
             this.veriTableAdapter1.ClearBeforeFill = true;
             // 
-            // msktel
-            // 
-            this.msktel.Location = new System.Drawing.Point(93, 116);
-            this.msktel.Mask = "(999) 000-0000";
-            this.msktel.Name = "msktel";
-            this.msktel.Size = new System.Drawing.Size(117, 20);
-            this.msktel.TabIndex = 16;
-            // 
             // frmanagiris
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -576,7 +564,6 @@
         private loginpanelDataSet1TableAdapters.veriTableAdapter veriTableAdapter1;
         private System.Windows.Forms.Button btnisttsk;
         private System.Windows.Forms.Button btngrafik;
-        private System.Windows.Forms.Button btnraporlama;
         private System.Windows.Forms.MaskedTextBox msktel;
     }
 }

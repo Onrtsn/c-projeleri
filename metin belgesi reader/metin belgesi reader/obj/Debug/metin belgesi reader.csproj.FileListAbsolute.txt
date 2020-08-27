@@ -1,0 +1,10 @@
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin belgesi reader.csprojAssemblyReference.cache
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin_belgesi_reader.Form1.resources
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin_belgesi_reader.Properties.Resources.resources
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin belgesi reader.csproj.GenerateResource.cache
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin belgesi reader.csproj.CoreCompileInputs.cache
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\bin\Debug\metin belgesi reader.exe.config
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\bin\Debug\metin belgesi reader.exe
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\bin\Debug\metin belgesi reader.pdb
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin belgesi reader.exe
+C:\Users\onrts\source\repos\metin belgesi reader\metin belgesi reader\obj\Debug\metin belgesi reader.pdb
